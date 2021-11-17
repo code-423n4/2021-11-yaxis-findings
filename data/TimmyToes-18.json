@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "TimmyToes",
+  "address": "0xF2E17FEC8fed156726b105C7D8340829D88F5db1",
+  "risk": "0",
+  "title": "Remove FixedPointMath ",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-11-yaxis-findings/issues/18"
+}
