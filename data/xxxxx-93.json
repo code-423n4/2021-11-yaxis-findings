@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "xxxxx",
+  "address": "0xF3726952CD759C710418dCAd508C38f67F330264",
+  "risk": "G",
+  "title": "Gas reduction by bypassing the heavy gas user for 1 scenario",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2021-11-yaxis-findings/issues/93"
+}
