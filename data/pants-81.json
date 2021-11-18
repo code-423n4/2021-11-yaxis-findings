@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "G",
+  "title": "Unnecessary array boundaries check when loading an array element twice",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2021-11-yaxis-findings/issues/81"
+}
