@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "G",
+  "title": "YaxisVaultAdapter: FixedPointMath import is unused",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2021-11-yaxis-findings/issues/73"
+}
