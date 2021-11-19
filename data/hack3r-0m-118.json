@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "1",
+  "title": "`Alchemist.sol`  is not deployable due to large bytecode size",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2021-11-yaxis-findings/issues/118"
+}
