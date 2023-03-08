@@ -1,3 +1,11 @@
+---
+sponsor: "yAxis"
+slug: "2021-11-yaxis"
+date: "2022-01-27"  
+title: "yAxis contest"
+findings: "https://github.com/code-423n4/2021-11-yaxis-findings/issues"
+contest: 56
+---
 
 # Overview
 
